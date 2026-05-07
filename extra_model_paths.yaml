@@ -8,7 +8,7 @@ runpod_worker_comfy:
   clip_vision: models/clip_vision/
   vae: models/vae/
   loras: models/loras/
-  ipadapter: models/ipadapter/
+  ipadapter-flux: models/ipadapter-flux/
   embeddings: models/embeddings/
   controlnet: models/controlnet/
   upscale_models: models/upscale_models/
